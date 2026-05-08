@@ -160,9 +160,6 @@ Informações adicionais fornecidas no prompt para direcionar melhor a resposta 
 ### Persona
 Papel definido para influenciar a forma, o tom e o nível de explicação da resposta gerada pela IA.
 
-### LLM
-Grandes modelos de linguagem treinados com enormes volumes de texto para compreender e gerar linguagem natural.
-
 📝 Resumo Estruturado
 
 A Engenharia de Prompt é a prática de criar e melhorar comandos para conseguir respostas melhores da Inteligência Artificial.
